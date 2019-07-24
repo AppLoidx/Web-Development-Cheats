@@ -9,3 +9,5 @@
 <hr>
 
 **Руководство по Markdown** : [Link](https://guides.github.com/features/mastering-markdown/)
+
+![](https://github.com/AppLoidx/Web-Development-Cheats/blob/master/res/34.jpg?raw=true)
