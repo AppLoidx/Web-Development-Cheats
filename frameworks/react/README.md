@@ -278,4 +278,6 @@ As npm modules:
 * <https://khan.github.io/react-components>: Khan Academy React components
 * <http://www.reactjsx.com>: Registry of React components
 
+<hr>
+
 Source from [azat-co](https://github.com/azat-co/cheatsheets)
