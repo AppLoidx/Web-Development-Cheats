@@ -21,4 +21,6 @@
 * [Spring](spring)
 * [VCS](VCS)
   
+<hr>
+
 Original repository: https://github.com/band-of-four/cheatsheets
