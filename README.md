@@ -17,5 +17,5 @@
 * [OAuth](OAuth)
 * [Spring](spring)
 * [VSC](VCS)
-* 
+  
 Original repository: https://github.com/band-of-four/cheatsheets
