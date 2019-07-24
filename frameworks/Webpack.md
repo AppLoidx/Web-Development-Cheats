@@ -1,3 +1,4 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Webpack.png/100px-Webpack.png)
 # Webpack
 
 Код JavaScript часто оформляется в модули, подходящие для повторного использования. Но эти модули часто зависят от других модулей, которые могут зависеть от третьих и так далее.
