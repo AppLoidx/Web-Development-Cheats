@@ -1,4 +1,4 @@
-# GlassFish
+# GlassFish для helios.se.ifmo
 
 ## Первоначальная настройка
 
