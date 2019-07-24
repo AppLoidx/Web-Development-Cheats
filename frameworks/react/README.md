@@ -6,3 +6,4 @@ React - это библиотека компонентов пользовате�
 
 * **React Beginners Tutorial** : [React Foundation [En]](https://github.com/azat-co/react-foundation)
 * **Учебник ReactJS** : [Learn React JS [Ru]](https://learn-reactjs.ru/tutorial)
+* **ReactJS and Spring Data REST** : [Guide](https://spring.io/guides/tutorials/react-and-spring-data-rest/) : [Examples](https://github.com/spring-guides/tut-react-and-spring-data-rest)
