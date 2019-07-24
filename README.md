@@ -2,20 +2,20 @@
 
 ## Content
 
-* [Frameworks](Frameworks)
-    * [React](Frameworks/react)
-      * [Router](Frameworks/react/react-router.md)
-      * [Redux](Frameworks/react/redux.md)
-      * [Cheatsheet [En]](Frameworks/react/react-cheatsheet-[en].md)
-    * [Angular](Frameworks/Angular.md)
-    * [Glassfish](Frameworks/glassfish.md)
-    * [Webpack](Frameworks/Webpack.md)
-    * [NPM](Frameworks/npm.md)
+* [Frameworks](frameworks)
+    * [React](frameworks/react)
+      * [Router](frameworks/react/react-router.md)
+      * [Redux](frameworks/react/redux.md)
+      * [Cheatsheet [En]](frameworks/react/react-cheatsheet-[en].md)
+    * [Angular](frameworks/Angular.md)
+    * [Glassfish](frameworks/glassfish.md)
+    * [Webpack](frameworks/Webpack.md)
+    * [NPM](frameworks/npm.md)
 * [itmo-university](itmo-university)
-* [Java-EE](Java-EE)
-* [JavaScript](JavaScript)
+* [Java-EE](java-ee)
+* [JavaScript](javascript)
 * [OAuth](OAuth)
-* [Spring](Spring)
+* [Spring](spring)
 * [VSC](VCS)
 * 
 Original repository: https://github.com/band-of-four/cheatsheets
