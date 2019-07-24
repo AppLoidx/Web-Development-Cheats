@@ -19,6 +19,6 @@
 * [JavaScript](javascript)
 * [OAuth](OAuth)
 * [Spring](spring)
-* [VSC](VCS)
+* [VCS](VCS)
   
 Original repository: https://github.com/band-of-four/cheatsheets
