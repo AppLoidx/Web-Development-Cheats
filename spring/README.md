@@ -11,6 +11,12 @@
 
 * [Getting Started [En]](GettingStarted-[En].md)
 * [JdbcTemplate](JdbcTemplate.md)
+* [Spring Boot](SpringBoot.md)
 * [Spring Boot + Spring Security](SpringBootWithSecurity.md)
 
-_Ебаный Spring_
+<hr>
+
+_Весна, весна! Как воздух чист!
+Как ясен небосклон!
+Своей лазурию живой
+Слепит мне очи он._<br>Евгений Баратынский
