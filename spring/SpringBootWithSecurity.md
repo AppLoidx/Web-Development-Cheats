@@ -1,7 +1,7 @@
 # Spring Boot + Spring Security
 Органичение доступа к ресурсам по авторизации пользователей (по ролям)
 
-Исходный код можно найти [здесь](https://github.com/AppLoidx/spring-security-example)
+[GitHub repository](https://github.com/AppLoidx/spring-security-example)
 
 ## Зависимости
 
