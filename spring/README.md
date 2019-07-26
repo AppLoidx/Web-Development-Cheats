@@ -9,7 +9,8 @@
 
 ## Articles
 
-* [JdbcTemplate](JdbcTemplate.md)
 * [Getting Started [En]](GettingStarted-[En].md)
+* [JdbcTemplate](JdbcTemplate.md)
+* [Spring Boot + Spring Security](SpringBootWithSecurity.md)
 
 _Ебаный Spring_
