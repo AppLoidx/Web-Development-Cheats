@@ -17,6 +17,7 @@
   * [programming](itmo-university/programming)
 * [Java-EE](java-ee)
 * [JavaScript](javascript)
+  * [ES6/ECMAScript2015 Cheatsheet](javascript/es6)
 * [OAuth](OAuth)
 * [Spring](spring)
   * [Getting Started [En]](spring/GettingStarted-[En].md)
