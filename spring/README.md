@@ -12,8 +12,6 @@
 
 <hr>
 
-![](res/before.png)
-<br>
 ![](res/after.png)
 <br>
 ![](res/cards.png)
