@@ -1,4 +1,4 @@
-<h1 align=center>Internet Appliactions Cheatsheets</h1>
+<h1 align=center>Internet Applications Cheatsheets</h1>
  
 ## Content
 
