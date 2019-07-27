@@ -25,7 +25,7 @@
   * [Spring Boot + Spring Security](spring/SpringBootWithSecurity.md)
   * [Spring Boot](spring/SpringBoot.md)
   * [Spring Initializer](spring/SpringInitializer.md)
-* [VCS](VCS)
+* [Git](VCS)
 
 <hr>
 
