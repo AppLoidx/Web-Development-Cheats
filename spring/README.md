@@ -1,9 +1,3 @@
-![](res/before.png)
-<br>
-![](res/after.png)
-<br>
-![](res/cards.png)
-
 <h1 align=center>Spring</h1>
 
 <h4 align=center>Official Site : https://spring.io/</h4>
@@ -15,6 +9,14 @@
 * [Spring Boot](SpringBoot.md)
 * [Spring Initializer](SpringInitializer.md)
 * [Spring Boot + Spring Security](SpringBootWithSecurity.md)
+
+<hr>
+
+![](res/before.png)
+<br>
+![](res/after.png)
+<br>
+![](res/cards.png)
 
 <hr>
 
