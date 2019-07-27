@@ -1,5 +1,5 @@
-# Internet Appliactions Cheatsheets
-
+<h1 align=center>Internet Appliactions Cheatsheets</h1>
+ 
 ## Content
 
 * [Frameworks](frameworks)
@@ -24,7 +24,7 @@
   * [JdbcTemplate](spring/JdbcTemplate.md)
   * [Spring Boot + Spring Security](spring/SpringBootWithSecurity.md)
 * [VCS](VCS)
-  
+
 <hr>
 
-Original repository: https://github.com/band-of-four/cheatsheets
+<h5 align=right>Original repository: https://github.com/band-of-four/cheatsheets</h5>
