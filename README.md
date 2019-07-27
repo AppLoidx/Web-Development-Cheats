@@ -23,6 +23,8 @@
   * [Getting Started [En]](spring/GettingStarted-[En].md)
   * [JdbcTemplate](spring/JdbcTemplate.md)
   * [Spring Boot + Spring Security](spring/SpringBootWithSecurity.md)
+  * [Spring Boot](spring/SpringBoot.md)
+  * [Spring Initializer](spring/SpringInitializer.md)
 * [VCS](VCS)
 
 <hr>
