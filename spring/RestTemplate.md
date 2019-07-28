@@ -34,3 +34,8 @@ vars.put("login", login);
 vars.put("password", password);
 Token token = restTemplate.getForObject(ExternalSourcesConfig.heliosApiUri + "auth?login={login}&password={password}",Token.class, vars);
 ```
+
+<hr>
+
+**JavaDoc** : https://docs.spring.io/spring/docs/3.0.x/javadoc-api/org/springframework/web/client/RestTemplate.html
+**Documentation** : https://spring.io/blog/2009/03/27/rest-in-spring-3-resttemplate
