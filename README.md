@@ -21,10 +21,11 @@
 * [OAuth](OAuth)
 * [Spring](spring)
   * [Getting Started [En]](spring/GettingStarted-[En].md)
-  * [JdbcTemplate](spring/JdbcTemplate.md)
   * [Spring Boot + Spring Security](spring/SpringBootWithSecurity.md)
   * [Spring Boot](spring/SpringBoot.md)
   * [Spring Initializer](spring/SpringInitializer.md)
+  * [JdbcTemplate](spring/JdbcTemplate.md)
+  * [RestTemplate](spring/RestTemplate.md)
 * [Git](VCS)
 
 <hr>
