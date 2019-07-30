@@ -33,7 +33,7 @@ $orange->sayColor();
 
 # Задания на JS
 
-Написать функцию, которая на странице заменяет все тестовые поля ввода на кнопки:
+Написать функцию, которая на странице заменяет все текстовые поля ввода на кнопки:
 ```js
 function replaceTextFields() {
   Array.prototype.slice.call(document.querySelectorAll('input[type=text]')).forEach(function(textField) {
