@@ -30,7 +30,7 @@
 
 <hr>
 
-Contributing: [Instructions](https://github.com/AppLoidx/Web-Development-Cheats/blob/master/CONTRIBUTING.md)
+👉 Contributing: [Instructions](https://github.com/AppLoidx/Web-Development-Cheats/blob/master/CONTRIBUTING.md)
 
 <hr>
 
