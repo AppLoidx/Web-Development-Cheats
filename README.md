@@ -30,4 +30,4 @@
 
 <hr>
 
-<h5 align=right>Original repository: https://github.com/band-of-four/cheatsheets</h5>
+<h5 align=right>More ITMO disciplines: https://github.com/band-of-four/cheatsheets</h5>
