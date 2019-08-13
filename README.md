@@ -30,4 +30,8 @@
 
 <hr>
 
+Contributing: [Instructions](https://github.com/AppLoidx/Web-Development-Cheats/blob/master/CONTRIBUTING.md)
+
+<hr>
+
 <h5 align=right>More ITMO disciplines: https://github.com/band-of-four/cheatsheets</h5>
