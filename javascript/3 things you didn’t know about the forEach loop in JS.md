@@ -1,3 +1,5 @@
+<h1 align=center><img src="https://miro.medium.com/max/700/1*WPfN96RRpQzRMaOedN-HyA.png"/></h1>
+
 ## Do you think you know exactly how the forEach loop works in JS?
 
 Well, these were my thoughts until recently: “just a regularfor loop where you can easily use break or return or continue“.
