@@ -1,6 +1,15 @@
 # Best Practices for JavaScript development
 
-## async / await
+## Content
+* [async / await](#async-await)
+* [console log](#console-log)
+* [destructuring](#destructuring)
+* [loops](#loops)
+* [rest params](#rest-params)
+* [spread syntax](#spread-syntax)
+* [template literals](#template-literals)
+
+## async-await
 
 ```js
 const random = () => {
@@ -61,7 +70,7 @@ const sumRandomAsyncNums = async() => {
 }
 ```
 
-## console log
+## console-log
 ```js
 const foo    = { name: 'tom',   age: 30, nervous: false };
 const bar    = { name: 'dick',  age: 40, nervous: false };
@@ -201,7 +210,7 @@ const someValueGreaterThan500 = orders.some(v => v > 500)
 const someValueGreaterThan10 = orders.some(v => v > 10)
 ```
 
-## Rest Params
+## rest-params
 ```js
 'Bad Function Code 💩'
 
@@ -218,7 +227,7 @@ function totalHitPoints(...hits) {
 totalHitPoints(1,2,3,4,5,6,7,)
 ```
 
-## Spread syntax
+## spread-syntax
 ```js
 
 // Objects
@@ -263,7 +272,7 @@ pokemon = [...pokemon, 'Bulbasaur', 'Metapod', 'Weedle']
 pokemon = ['Bulbasaur', ...pokemon, 'Metapod', 'Weedle', ]
 ```
 
-## Template literals
+## template-literals
 ```js
 const horse = {
     name: 'Topher 🐴',
