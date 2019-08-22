@@ -1,13 +1,13 @@
 # Best Practices for JavaScript development
 
 ## Content
-* [async / await](#async-await)
-* [console log](#console-log)
-* [destructuring](#destructuring)
-* [loops](#loops)
-* [rest params](#rest-params)
-* [spread syntax](#spread-syntax)
-* [template literals](#template-literals)
+* [Async / Await](#async-await)
+* [Console log](#console-log)
+* [Destructuring](#destructuring)
+* [Loops](#loops)
+* [Rest params](#rest-params)
+* [Spread syntax](#spread-syntax)
+* [Template literals](#template-literals)
 
 ## async-await
 
