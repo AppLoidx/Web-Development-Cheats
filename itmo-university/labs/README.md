@@ -10,3 +10,4 @@
 * Лабораторная работа №1
   * [Kupriyanov Arthur](https://github.com/AppLoidx/web-app-development-lab1)
   * [Kalugina Marina](https://github.com/KaluginaMarina/Internet-Applications-Development)
+  * [Ivan Bratchikov](https://github.com/brtchkv/pip)
