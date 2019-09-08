@@ -136,4 +136,4 @@ const controller = new AbortController();fetch('http://domain/service', {
 Fetch это будущее. Тем не менее, API является относительно новым, он не обеспечивает все функциональные возможности XHR, а некоторые параметры являются громоздкими. Используйте его с осторожностью в течение следующих нескольких лет.
 
 <hr>
-Имплементация статьи : https://dev-gang.ru/article/xmlhttprequest-protiv-fetch-api-czto-luczshe-dlja-otpravki-ajax-v-2019-godu-vd0qcrgiq5/
+Имплементация статьи : [link](https://dev-gang.ru/article/xmlhttprequest-protiv-fetch-api-czto-luczshe-dlja-otpravki-ajax-v-2019-godu-vd0qcrgiq5/)
