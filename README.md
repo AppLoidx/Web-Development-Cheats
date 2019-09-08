@@ -14,7 +14,6 @@
 * [ITMO University](itmo-university)
   * [Лабораторные работы](itmo-university/labs)
   * [Рубежки](itmo-university/module%20tests)
-  * [Java Basics](itmo-university/programming)
 * [Java EE](java-ee)
 * [JavaScript](javascript)
   * [ES6/ECMAScript2015 Cheatsheet](javascript/es6)
