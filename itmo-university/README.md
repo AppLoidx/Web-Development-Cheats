@@ -8,7 +8,7 @@
 <hr>
 <h3 align=center><a href="module%20tests">Рубежные контрольные</a></h3>
 <hr> 
-<h3 align=center><a href="programming">Немного Java программирования</a></h3> 
+<h3 align=center><a href="programming">Как развернуть веб-страницу на se.ifmo?</a></h3> 
 <hr>
 
 
