@@ -14,6 +14,7 @@
 * [ITMO University](itmo-university)
   * [Лабораторные работы](itmo-university/labs)
   * [Рубежки](itmo-university/module%20tests)
+  * [Как развернуть веб-страницу на se.ifmo?](itmo-university/deploy.md)
 * [Java EE](java-ee)
 * [JavaScript](javascript)
   * [ES6/ECMAScript2015 Cheatsheet](javascript/es6)
