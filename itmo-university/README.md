@@ -1,4 +1,4 @@
-<h1 align=center><img src="res/vt.jpg"/><br>Лабораторные работы Университета ИТМО</h1>
+<h1 align=center><img src="vt.jpg"/><br>Лабораторные работы Университета ИТМО</h1>
 <br><br>
 <h2 align=center>Содержание</h2> 
 <br><br>
