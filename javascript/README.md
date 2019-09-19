@@ -10,7 +10,7 @@ _Джон Сонмез (John Sonmez)_
 * [Removing space in string in Javascript](Removing%20space%20in%20string%20in%20Javascript.md)
 * [Что такое `this`?](this.md)
 * [Fetch и AJAX](fetch-vs-ajax.md)
-
+* [Про прототипы в JS](prototype.md)
 ## Useful links
 
 * **Work-in-open book** : [Full Stack JavaScript, 3rd Edition](https://github.com/azat-co/fullstack-javascript)
