@@ -22,6 +22,7 @@
   * [Removing space in string in Javascript](javascript/Removing%20space%20in%20string%20in%20Javascript.md)
   * [Что такое `this`?](javascript/this.md)
   * [Fetch и AJAX](javascript/fetch-vs-ajax.md)
+  * [Про прототипы в JS](javascript/prototype.md)
 * [PHP](php)
   * [Установка с IDEA](php/installation.md)
 * [OAuth](OAuth)
