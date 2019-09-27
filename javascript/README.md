@@ -7,7 +7,7 @@ _Джон Сонмез (John Sonmez)_
 ## Table of contents
 * [ECMAScript6](es6)
 * [3 things you didn’t know about the forEach loop in JS](3%20things%20you%20didn’t%20know%20about%20the%20forEach%20loop%20in%20JS.md)
-* [Removing space in string in Javascript](Removing%20space%20in%20string%20in%20Javascript.md)
+* [Убираем пробелы из строки в Javascript](Removing%20space%20in%20string%20in%20Javascript.md)
 * [Что такое `this`?](this.md)
 * [Fetch и AJAX](fetch-vs-ajax.md)
 * [Про прототипы в JS](prototype.md)
