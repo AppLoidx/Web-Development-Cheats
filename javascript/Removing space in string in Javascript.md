@@ -1,5 +1,5 @@
-## Learn how to remove space in string.
-If you want to remove all the space in the string then , you can use replace method
+## Убираем пробелы
+Если мы хотим убрать все пробелы из строки, то мы можем использовать `replace` вместе с рег-ми выражениями
 ```js
 var name = "ITMO University  ";
 name.replace(/\s/g,''); // ITMOUniversity
@@ -10,7 +10,7 @@ var name = "Javascript jeep  ";
 name.replace(/\s/g,'-'); // ITMO-University--
 ```
 
-If you want to remove the extra space at the end of the string then you can use
+Если мы хотим удалить пробелы с одной из сторон, то можем вызывать методы `trimRight` и `trimLeft`
 ```js
 var s = "string   ";
 s = s.trimRight();    // "string"
@@ -22,7 +22,7 @@ s = s.trimLeft();    // "string"
 //trimLeft() returns a new string, removing the space on start of the string
 ```
 
-If you want to remove the extra space at the both end of the string then you can use
+И с обоих сторон с помощью `trim`
 ```js
 var s = "   string   ";
 s = s.trim();    // "string"
