@@ -15,6 +15,7 @@
   * [Рубежки](itmo-university/module%20tests)
   * [Как развернуть веб-страницу на se.ifmo?](itmo-university/deploy.md)
   * [Настройка Glassfish для se.ifmo](frameworks/glassfish.md)
+  * [Деплой на Glassfisg se.ifmo [PDF]](itmo-university/Деплоим%20лабу%20на%20хелиос%20через%20путти.pdf)
 * [Java EE](java-ee)
 * [JavaScript](javascript)
   * [ES6/ECMAScript2015 Cheatsheet](javascript/es6)
