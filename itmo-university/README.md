@@ -10,7 +10,7 @@
 <hr> 
 <h3 align=center><a href="deploy.md">Как развернуть веб-страницу на se.ifmo?</a></h3> 
 <hr>
-<h3 align=center><a href="Деплоим%20лабу%20на%20хелиос%20через%20путти.pdf">Деплой на Glassfisg se.ifmo [PDF]</a></h3>
+<h3 align=center><a href="Деплоим%20лабу%20на%20хелиос%20через%20путти.pdf">Деплой на Glassfish se.ifmo [PDF]</a></h3>
 <hr>
 
 
