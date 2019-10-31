@@ -107,10 +107,15 @@ a:visited:not([class*="news"]) {
 
 Написать css правило, которое при клике на ссылку добавляет ей подчеркивание, всем кроме ссылок в теге h1
 
+Тупо, но работает!
 ```css
-a:not(h1) :visited, :active {
-	text-decoration: underline;
-}
+      a:active{
+        text-decoration: underline;
+      }
+
+      h1 > a:active{
+        text-decoration: none;
+      }
 ```
 
 css правило, выравнивающее все блоки <div> внутри формы с id=”sampleForm” по правому краю
