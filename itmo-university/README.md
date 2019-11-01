@@ -12,5 +12,7 @@
 <hr>
 <h3 align=center><a href="Деплоим%20лабу%20на%20хелиос%20через%20путти.pdf">Деплой на Glassfish se.ifmo [PDF]</a></h3>
 <hr>
+<h3 align=center><a href="Деплоим%202%20лабу%20на%20helios%2C%20используя%20WildFly.md">Деплой на WildFly</a></h3>
+<hr>
 
 
