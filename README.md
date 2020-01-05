@@ -35,6 +35,7 @@
   * [Spring Initializer](spring/SpringInitializer.md)
   * [JdbcTemplate](spring/JdbcTemplate.md)
   * [RestTemplate](spring/RestTemplate.md)
+  * [Spring Mail (gmail)](spring/spring-mail/spring-mail.md)
 * [Git](VCS)
 
 <hr>
