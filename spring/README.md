@@ -10,6 +10,7 @@
 * [Spring Boot + Spring Security](SpringBootWithSecurity.md)
 * [JdbcTemplate](JdbcTemplate.md)
 * [RestTemplate](RestTemplate.md)
+* [Spring Mail](spring-mail/spring-mail.md)
 
 
 <hr>
