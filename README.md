@@ -18,6 +18,7 @@
   * [Деплой на Glassfish se.ifmo [PDF]](itmo-university/Деплоим%20лабу%20на%20хелиос%20через%20путти.pdf)
   * [Деплой на WildFly](itmo-university/%D0%94%D0%B5%D0%BF%D0%BB%D0%BE%D0%B8%D0%BC%202%20%D0%BB%D0%B0%D0%B1%D1%83%20%D0%BD%D0%B0%20helios%2C%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8F%20WildFly.md)
 * [Java EE](java-ee)
+  * [Quickstart with EJB and GrizzlyHttp](https://github.com/AppLoidx/jersey-grizzly-example)
 * [JavaScript](javascript)
   * [ES6/ECMAScript2015 Cheatsheet](javascript/es6)
   * [3 things you didn’t know about the forEach loop in JS](javascript/3%20things%20you%20didn’t%20know%20about%20the%20forEach%20loop%20in%20JS.md)
