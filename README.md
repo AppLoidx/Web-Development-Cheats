@@ -1,6 +1,6 @@
 <h1 align=center>Web Development Cheatsheets</h1>
  
-## Content
+## Content to be learn
 
 * [Frameworks](frameworks)
     * [React](frameworks/react)
